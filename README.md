@@ -24,6 +24,25 @@ Sou um desenvolvedor Full Stack apaixonado por tecnologia, com ampla experiênci
 
 </div>
 <p>Além disso, tenho experiência em metodologias ágeis como Scrum e Kanban, e em processos de DevOps para garantir a integração e entrega contínua. Sou adepto de práticas como TDD (Test-Driven Development), Clean Code, documentação, versionamento com Git, GitHub, GitLab, Bitbucket, padrões de projeto e infraestrutura.</p>
+<p>Tenho orgulho em dizer que já trabalhei em projetos de diversos tamanhos e complexidades, desde pequenos sites estáticos até grandes aplicações distribuídas e sistemas de missão crítica. </p>
+
+<p>Algumas outras tecnologias e ferramentas com as quais trabalho com frequência incluem:</p>
+
+<div style="display: inline_block"><br>
+  <img align="center" alt="Docker" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" />
+  <img align="center" alt="PostgreSQL" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" />
+  <img align="center" alt="MySQL" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" />
+  <img align="center" alt="MongoDB" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" />
+  <img align="center" alt="Git" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" />
+  <img align="center" alt="GitHub" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" />
+  <img align="center" alt="GitLab" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/gitlab/gitlab-original.svg" />
+  <img align="center" alt="Bitbucket" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bitbucket/bitbucket-original.svg" />
+  <img align="center" alt="Jenkins" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jenkins/jenkins-original.svg" />
+  <img align="center" alt="Ansible" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/ansible/ansible-original.svg" />
+  <img align="center" alt="Linux" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" />
+  <img align="center" alt="Apache" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/apache/apache-original.svg" />
+  <img align="center" alt="Nginx" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nginx/nginx-original.svg" />
+  <img align="center" alt="AWS" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/amazonwebservices/amazonwebservices-original.svg" />
 <p>Estou sempre aberto a novos projetos e oportunidades de trabalho, então não hesite em entrar em contato comigo para discutir qualquer ideia ou proposta. Vamos colaborar juntos para criar soluções inovadoras e de alta qualidade!</p>
 <p>Aproveito para convidá-lo a conferir meu blog pessoal em https://updevblog.com/pt/, onde compartilho algumas ideias e reflexões sobre tecnologia, desenvolvimento de software e outros assuntos relacionados.</p>
 <p>Agradeço por visitar meu perfil no GitHub e espero poder colaborar com você em algum projeto emocionante em breve!</p>
