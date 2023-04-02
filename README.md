@@ -45,4 +45,13 @@ Sou um desenvolvedor Full Stack apaixonado por tecnologia, com ampla experiênci
   <img align="center" alt="AWS" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/amazonwebservices/amazonwebservices-original.svg" />
 <p>Estou sempre aberto a novos projetos e oportunidades de trabalho, então não hesite em entrar em contato comigo para discutir qualquer ideia ou proposta. Vamos colaborar juntos para criar soluções inovadoras e de alta qualidade!</p>
 <p>Aproveito para convidá-lo a conferir meu blog pessoal em https://updevblog.com/pt/, onde compartilho algumas ideias e reflexões sobre tecnologia, desenvolvimento de software e outros assuntos relacionados.</p>
+<h2>Estatísticas do Wakatime</h2>
+<p>Abaixo estão minhas estatísticas do Wakatime:</p>
+
+<div align="center">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/wakatime?username=Renan&layout=compact&theme=dark"/>
+</div>
+<p>O Wakatime é uma ferramenta que uso para monitorar meu tempo de desenvolvimento e me ajuda a melhorar minha produtividade. Ele me permite ver quanto tempo passei trabalhando em cada projeto, quais as linguagens de programação que mais utilizei e quais os IDEs e editores de texto que mais usei.</p>
+<p>Além disso, estou sempre aprendendo e experimentando com novas tecnologias, então fique à vontade para sugerir algum projeto ou tecnologia que você gostaria que eu trabalhasse!</p>
 <p>Agradeço por visitar meu perfil no GitHub e espero poder colaborar com você em algum projeto emocionante em breve!</p>
+
